@@ -1,4 +1,5 @@
-# Polymer Property Prediction: An Invariance-First Multi-Property Model
+# Polymer Property Prediction: An Multi-Property Model
+### Team :◢◤ The Invincibles ◢◤
 
 This repository contains the codebase for a robust machine learning pipeline designed to predict seven key physical and electronic properties of polymers using their repeat-unit SMILES representations. The approach emphasizes structural invariance, advanced graph representation learning, and physical explainability.
 
